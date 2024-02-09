@@ -2,6 +2,10 @@
 
 <!--
 **ardenBarden/ardenBarden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Consider wakatime since I'm starting out new
+Maybe consider coding C++ projects in here and transfer them over
+Look at readmes of people you like and copy stuffies hehe. 
+Get "pro" for free for being a student methinks
 
 Here are some ideas to get you started:
 
