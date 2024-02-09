@@ -7,6 +7,8 @@ Maybe consider coding C++ projects in here and transfer them over
 Look at readmes of people you like and copy stuffies hehe. 
 Get "pro" for free for being a student methinks
 
+Consider Github desktop so that you can send changes direct to computer
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
