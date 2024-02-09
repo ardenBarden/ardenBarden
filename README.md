@@ -7,7 +7,7 @@ Maybe consider coding C++ projects in here and transfer them over
 Look at readmes of people you like and copy stuffies hehe. 
 Get "pro" for free for being a student methinks
 
-Consider Github desktop so that you can send changes direct to computer
+Consider Github desktop so that you can send changes direct to computer. If I do that, then I can make changes in an IDE I like, like eclipse or vscode
 
 Here are some ideas to get you started:
 
