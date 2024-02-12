@@ -31,4 +31,4 @@ Until then, I am:
 - First place winner of the 2022 TAS convention's Mathematics and Computer Science poster section (ask me about my grapes!)
 - Captain of Southwestern University's track and field team
 
-For more crazy factoids, here's my resume!
+For more crazy factoids, here's my **[resume](https://github.com/)**!
