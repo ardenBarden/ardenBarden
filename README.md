@@ -34,4 +34,4 @@ Until then, I am:
 - A member of the 2nd-place winning team in the ICPC South Central programming competition!
 - Agtech data science intern at Plantible Foods
 
-For more crazy factoids, here's my **[resume](https://github.com/ardenBarden/ardenBarden/blob/main/Neff_Resume.pdf)**!
+For more crazy factoids, here's my **[resume](https://github.com/ardenBarden/ardenBarden/blob/main/Neff_Resume_Data_Analytics.pdf)**!
